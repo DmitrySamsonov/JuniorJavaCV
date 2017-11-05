@@ -1,21 +1,20 @@
-Good day!
+Hi, Dear Sir or Madam!
 
-I want to work in your company.
+Few words about me:
+I want to work, resolve interesting tasks and grow up.
+I have experience in software development for more than 
+2 years. The last year as a backend developer
 
-Waiting for your reply and instructions.
-________________________________________________
-About me:
-Experience in software development for more than 
-2 years. The last year as a backend developer.
-
-Work experience: 
+My Work experience: 
 Ispirer Systems Ltd.       May 2017 – July 2017
 Junior Java Developer
 
 My CV:
 https://github.com/DmitrySamsonov/JuniorJavaCV/blob/master/Dmitry_Samsonov_Junior_Java_CV.pdf
 
+Waiting for your reply and instructions. 
+Thank you!
 
-Sincerely
+Sincerely, 
 Dmitry Samsonov 
 dmitry.samsonov.alexandrovich@gmail.com
